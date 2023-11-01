@@ -1,6 +1,6 @@
 function deploy {
 
-    #Requires -Version 3.0
+    #Requires -Version 4.0
     #Requires -Module Az.Resources
     #Requires -Module Az.Storage
 
